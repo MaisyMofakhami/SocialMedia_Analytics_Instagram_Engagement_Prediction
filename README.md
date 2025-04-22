@@ -19,6 +19,9 @@ This project explores how to analyze and predict engagement on Instagram posts u
 - Identified common themes and named each topic based on top 25 keywords.
 - Compared topic prevalence between low and high engagement posts.
 
+- ![image](https://github.com/user-attachments/assets/1e9a38d7-d7e9-42c0-a611-da5d986d952f)
+
+
 ### 📊 Engagement Analysis
 - Created an "engagement" feature using the number of comments.
 - Analyzed differences in topic weights across engagement quartiles.
